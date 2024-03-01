@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="quickmath:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/quickmath_jar</output-path>
+    <root id="archive" name="quickmath.jar">
+      <element id="module-output" name="quickmath" />
+    </root>
+  </artifact>
+</component>
